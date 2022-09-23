@@ -1,0 +1,5 @@
+#pyton
+a=input()
+b=(tuple(a))
+print(b)
+print(len(b))
