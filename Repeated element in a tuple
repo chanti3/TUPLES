@@ -1,0 +1,4 @@
+n=(2,4,5,6,2,3,4,4,7)
+k=int(input())
+print(n)
+print(n.count(k))
